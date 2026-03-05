@@ -34,5 +34,8 @@
 
     <key>ThrottleInterval</key>
     <integer>30</integer>
+
+    <key>SessionCreate</key>
+    <true/>
 </dict>
 </plist>
